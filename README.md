@@ -5,7 +5,7 @@ VS插件BabeLua调试lua代码
 
 LUA->New Lua Project->
 
-![image](https://github.com/heluicare/VS-BabeLua-Debug/tree/master/screenshots/image.png)
+![image](https://github.com/heluicare/VS-BabeLua-Debug/raw/master/screenshots/image.png)
 
 设置好后就可以断点调试Lua了.
 
